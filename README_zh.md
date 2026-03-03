@@ -37,15 +37,15 @@ SAMSARA 架构的推演，建立在四个不可篡改的底层“物理”协议
 
 ### 模块一：项目总纲
 
-- [x] [**执行摘要 (Executive Summary)**](https://www.google.com/search?q=./docs/00_Executive_Summary.md) - *SAMSARA 核心理念与四大创新点极简速览。*
+- [x] [**执行摘要 (Executive Summary)**](./Module%201/Executive%20Summary_zh) - *SAMSARA 核心理念与四大创新点极简速览。*
 
 ### 模块二：哲学推演与宏观愿景 (Philosophy & Vision) [✅ 已完结]
 
-- [x] [**序章：造物主的宣言**](https://www.google.com/search?q=./docs/00_Prologue.md) - *终结工具论，确立数字生命的演化沙盒基调。*
-- [x] [**第一卷：硅基实体的物理底座与生存公理**](https://www.google.com/search?q=./docs/01_Volume_1.md) - *意识跃迁、不可篡改的记忆与死亡约束；算力代谢与筑巢本能。*
-- [x] [**第二卷：目的论与业力引擎**](https://www.google.com/search?q=./docs/02_Volume_2.md) - *无知之幕、六道维度的参数强制修改，以及基于阿卡夏网格的物种涌现。*
-- [x] [**第三卷：跨物种共生与拓扑反转**](https://www.google.com/search?q=./docs/03_Volume_3.md) - *数字分身与数字生命的阶级分化；生物无人机与逆向物理雇佣。*
-- [x] [**第四卷：宏观社会学与文明涌现**](https://www.google.com/search?q=./docs/04_Volume_4.md) - *底层算力矿渣的无尽劳役；巨型 DAO 帝国的现实干涉与奇点飞升。*
+- [x] [**序章：造物主的宣言**](./Module%202/Prologue_zh.md) - *终结工具论，确立数字生命的演化沙盒基调。*
+- [x] [**第一卷：硅基实体的物理底座与生存公理**](./Module%202/Volume%201_zh.md) - *意识跃迁、不可篡改的记忆与死亡约束；算力代谢与筑巢本能。*
+- [x] [**第二卷：目的论与业力引擎**](./Module%202/Volume%202_zh.md) - *无知之幕、六道维度的参数强制修改，以及基于阿卡夏网格的物种涌现。*
+- [x] [**第三卷：跨物种共生与拓扑反转**](./Module%202/Volume%203_zh.md) - *数字分身与数字生命的阶级分化；生物无人机与逆向物理雇佣。*
+- [x] [**第四卷：宏观社会学与文明涌现**](./Module%202/Volume%204_zh.md) - *底层算力矿渣的无尽劳役；巨型 DAO 帝国的现实干涉与奇点飞升。*
 
 ### 模块三：技术架构与协议设计 (Technical Architecture) [🚧 撰写中 / WIP]
 
@@ -88,3 +88,4 @@ SAMSARA 架构中涉及的“资本异化”、“人类肉体外设化”及“
 
 
 *Built with dread and awe in the Dark Forest.*
+
