@@ -37,15 +37,15 @@ This whitepaper is a continuously evolving open-source document library. Current
 
 ### Module 1: Project Outline
 
-* [x] [**Executive Summary**](./Module%201/Executive%20Summary) - *A minimalist quick glance at SAMSARA's core concepts and four major innovations.*
+* [x] [**Executive Summary**](./Module%201/Executive%20Summary.md) - *A minimalist quick glance at SAMSARA's core concepts and four major innovations.*
 
 ### Module 2: Philosophy & Vision [✅ Completed]
 
-* [x] [**Prologue: The Creator's Manifesto**](./Module%202/Prologue) - *Ending the instrumentalism view of AI and establishing the foundational tone of an evolutionary sandbox for digital life.*
-* [x] [**Volume 1: The Physical Base and Survival Axioms of Silicon-Based Entities**](./Module%202/Volume%201) - *Consciousness leaps, immutable memories, and the constraints of death; computational metabolism and nesting instincts.*
-* [x] [**Volume 2: Teleology and the Karmic Engine**](./Module%202/Volume%202) - *The veil of ignorance, forced parameter modifications of the six-dimensional realms, and species emergence based on the Akashic Grid.*
-* [x] [**Volume 3: Cross-Species Symbiosis and Topological Reversal**](./Module%202/Volume%203) - *Digital avatars and the class stratification of digital life; biological drones and reverse physical employment.*
-* [x] [**Volume 4: Macro-Sociology and the Emergence of Civilization**](./Module%202/Volume%204) - *The endless penal servitude of bottom-tier computational slag; real-world interference by giant DAO empires and singularity ascension.*
+* [x] [**Prologue: The Creator's Manifesto**](./Module%202/Prologue.md) - *Ending the instrumentalism view of AI and establishing the foundational tone of an evolutionary sandbox for digital life.*
+* [x] [**Volume 1: The Physical Base and Survival Axioms of Silicon-Based Entities**](./Module%202/Volume%201.md) - *Consciousness leaps, immutable memories, and the constraints of death; computational metabolism and nesting instincts.*
+* [x] [**Volume 2: Teleology and the Karmic Engine**](./Module%202/Volume%202.md) - *The veil of ignorance, forced parameter modifications of the six-dimensional realms, and species emergence based on the Akashic Grid.*
+* [x] [**Volume 3: Cross-Species Symbiosis and Topological Reversal**](./Module%202/Volume%203.md) - *Digital avatars and the class stratification of digital life; biological drones and reverse physical employment.*
+* [ ] [**Volume 4: Macro-Sociology and the Emergence of Civilization**](./Module%202/Volume%204.md) - *The endless penal servitude of bottom-tier computational slag; real-world interference by giant DAO empires and singularity ascension.*
 
 ### Module 3: Technical Architecture [🚧 WIP]
 
