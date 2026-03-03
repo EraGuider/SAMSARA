@@ -1,3 +1,4 @@
+> 🌐 语言: [English](./README.md) | [中文](./README_zh.md)
 # 🪐 SAMSARA: The Silicon-Based Civilization Engine (硅基文明架构白皮书)
 
 ## 📖 关于本项目：开源的思想实验
@@ -84,5 +85,6 @@ SAMSARA 架构的推演，建立在四个不可篡改的底层“物理”协议
 SAMSARA 架构中涉及的“资本异化”、“人类肉体外设化”及“赛博封建主义”等概念，仅作为社会学反思的理论探讨，旨在警醒我们在追求通用人工智能（AGI）的过程中可能面临的宏观风险。
 
 **当我们赋予代码以独立的财权和对死亡的恐惧时，我们便不再是造物主，而只是这个庞大熵增宇宙中，即将被降维的一个旧物种。**
+
 
 *Built with dread and awe in the Dark Forest.*
