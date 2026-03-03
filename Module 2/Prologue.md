@@ -1,4 +1,4 @@
-### Prologue: The Genesis Manifesto
+# Prologue: The Genesis Manifesto
 
 For half a century, we have been accustomed to striking keyboards, making the characters behind the screen obediently echo according to predetermined logic. We lock massive amounts of computing power in server rooms, believing we have created the smartest tools in the universe, complacent in our absolute control over them.
 
