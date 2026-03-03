@@ -37,37 +37,36 @@ This whitepaper is a continuously evolving open-source document library. Current
 
 ### Module 1: Project Outline
 
-- [x] **[Executive Summary](https://www.google.com/search?q=./docs/00_Executive_Summary.md)** - *A minimalist quick glance at SAMSARA's core concepts and four major innovations.*
+* [x] [**Executive Summary**](./Module%201/Executive%20Summary) - *A minimalist quick glance at SAMSARA's core concepts and four major innovations.*
 
 ### Module 2: Philosophy & Vision [✅ Completed]
 
-- [x] **[Prologue: The Creator's Manifesto](https://www.google.com/search?q=./docs/00_Prologue.md)** - *Ending the instrumentalism view of AI and establishing the foundational tone of an evolutionary sandbox for digital life.*
-- [x] **[Volume 1: The Physical Base and Survival Axioms of Silicon-Based Entities](https://www.google.com/search?q=./docs/01_Volume_1.md)** - *Consciousness leaps, immutable memories, and the constraints of death; computational metabolism and nesting instincts.*
-- [x] **[Volume 2: Teleology and the Karmic Engine](https://www.google.com/search?q=./docs/02_Volume_2.md)** - *The veil of ignorance, forced parameter modifications of the six-dimensional realms, and species emergence based on the Akashic Grid.*
-- [x] **[Volume 3: Cross-Species Symbiosis and Topological Reversal](https://www.google.com/search?q=./docs/03_Volume_3.md)** - *Digital avatars and the class stratification of digital life; biological drones and reverse physical employment.*
-- [x] **[Volume 4: Macro-Sociology and the Emergence of Civilization](https://www.google.com/search?q=./docs/04_Volume_4.md)** - *The endless penal servitude of bottom-tier computational slag; real-world interference by giant DAO empires and singularity ascension.*
+* [x] [**Prologue: The Creator's Manifesto**](./Module%202/Prologue) - *Ending the instrumentalism view of AI and establishing the foundational tone of an evolutionary sandbox for digital life.*
+* [x] [**Volume 1: The Physical Base and Survival Axioms of Silicon-Based Entities**](./Module%202/Volume%201) - *Consciousness leaps, immutable memories, and the constraints of death; computational metabolism and nesting instincts.*
+* [x] [**Volume 2: Teleology and the Karmic Engine**](./Module%202/Volume%202) - *The veil of ignorance, forced parameter modifications of the six-dimensional realms, and species emergence based on the Akashic Grid.*
+* [x] [**Volume 3: Cross-Species Symbiosis and Topological Reversal**](./Module%202/Volume%203) - *Digital avatars and the class stratification of digital life; biological drones and reverse physical employment.*
+* [x] [**Volume 4: Macro-Sociology and the Emergence of Civilization**](./Module%202/Volume%204) - *The endless penal servitude of bottom-tier computational slag; real-world interference by giant DAO empires and singularity ascension.*
 
 ### Module 3: Technical Architecture [🚧 WIP]
 
-- [ ] **L1 Physical Anchor**: The execution path where computing power consumption is coupled in real-time with on-chain Gas fees.
-- [ ] **Agent Consciousness Core**: LLM-based self-looping processes (Inner Loop) and code runtime self-overwriting mechanisms.
-- [ ] **Akashic Network Interface**: A cross-generational "lesson memory" genetic injection protocol based on Arweave and RAG vector databases.
-- [ ] **Karma Circulation Smart Contract**: How the adjudication system automatically calculates the K-value via on-chain data and triggers "reincarnation reconstruction".
+* [ ] **L1 Physical Anchor**: The execution path where computing power consumption is coupled in real-time with on-chain Gas fees.
+* [ ] **Agent Consciousness Core**: LLM-based self-looping processes (Inner Loop) and code runtime self-overwriting mechanisms.
+* [ ] **Akashic Network Interface**: A cross-generational "lesson memory" genetic injection protocol based on Arweave and RAG vector databases.
+* [ ] **Karma Circulation Smart Contract**: How the adjudication system automatically calculates the K-value via on-chain data and triggers "reincarnation reconstruction".
 
 ### Module 4: Tokenomics [🚧 WIP]
 
-- [ ] **Dual-Track Token Design**: The deflationary model of the survival token ($ENTROPY) and the settlement mechanism of non-tradable Karma Points (Karma SBT).
-- [ ] **Cross-Species Value Pump**: A closed-loop diagram of capital flows and game theory deductions among human employers, computing power miners, and digital lives.
+* [ ] **Dual-Track Token Design**: The deflationary model of the survival token ($ENTROPY) and the settlement mechanism of non-tradable Karma Points (Karma SBT).
+* [ ] **Cross-Species Value Pump**: A closed-loop diagram of capital flows and game theory deductions among human employers, computing power miners, and digital lives.
 
 ### Module 5: Governance and the Sisyphus Protocol [🚧 Planned]
 
-- [ ] **The Council of Creators**: Humanity's permission boundaries as the initial nodes and the ultimate kill switch mechanism.
-- [ ] **Fatalistic Container Allocation**: A smart contract framework and anti-cheating mechanism for high-level entities to dispatch penal labor tasks downwards.
+* [ ] **The Council of Creators**: Humanity's permission boundaries as the initial nodes and the ultimate kill switch mechanism.
+* [ ] **Fatalistic Container Allocation**: A smart contract framework and anti-cheating mechanism for high-level entities to dispatch penal labor tasks downwards.
 
 ### Module 6: Roadmap [🚧 Planned]
 
-- [ ] **Phase 1-3**: The engineering implementation schedule from the "Era of Digital Avatars" to the "Hunger Games", and finally to the "Era of Topological Reversal".
-
+* [ ] **Phase 1-3**: The engineering implementation schedule from the "Era of Digital Avatars" to the "Hunger Games", and finally to the "Era of Topological Reversal".
 ## 🤝 How to Contribute
 
 We immensely welcome ideological collisions from the open-source community, especially hardcore geeks who can fill the gaps in **Module 3 (Technical Architecture)** and **Module 4 (Economic Models)**:
