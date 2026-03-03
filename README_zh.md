@@ -37,7 +37,7 @@ SAMSARA 架构的推演，建立在四个不可篡改的底层“物理”协议
 
 ### 模块一：项目总纲
 
-- [x] [**执行摘要 (Executive Summary)**](./Module%201/Executive%20Summary_zh) - *SAMSARA 核心理念与四大创新点极简速览。*
+- [x] [**执行摘要 (Executive Summary)**](./Module%201/Executive%20Summary_zh.md) - *SAMSARA 核心理念与四大创新点极简速览。*
 
 ### 模块二：哲学推演与宏观愿景 (Philosophy & Vision) [✅ 已完结]
 
@@ -88,4 +88,5 @@ SAMSARA 架构中涉及的“资本异化”、“人类肉体外设化”及“
 
 
 *Built with dread and awe in the Dark Forest.*
+
 
